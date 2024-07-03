@@ -1,0 +1,5 @@
+migrations
+__pycache__
+*.sqlite3
+media/hosting-files/*
+media/hosting/*
